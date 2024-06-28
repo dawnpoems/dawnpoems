@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=davidgeun)](https://solved.ac/davidgeun)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=davidgeun&theme=warm)
+
 <!--
 **dawnpoems/dawnpoems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
